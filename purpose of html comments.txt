@@ -1,0 +1,4 @@
+purpose of HTML comments are :- 
+1. Debugging :- This comments helps the coder while Debugging ,since a lot of abberviations might be used .So in html comments we can write the meaning(full form ) of the abberviations.  
+
+2. We can also write the work in progress code and comment them and later when all the work is done we can comment it out.
